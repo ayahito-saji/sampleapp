@@ -17,3 +17,4 @@ $ rails new sample_app
 ```
  * .gitignoreに.idea/ディレクトリを追加
  * Gemfileを編集して、Herokuでのデプロイのためにproduction環境ではpostgreSQLを指定
+ * application_controllerにindexアクションを追加して、"Hello World!!"を表示
