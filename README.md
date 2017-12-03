@@ -10,7 +10,7 @@
 [Ruby on Rails チュートリアル](https://railstutorial.jp/)内にあるソースコードはMITライセンスとBeerwareライセンスのもとで公開されています。
 詳細は [LICENSE.md](LICENSE.md) をご覧ください。
 
-##履歴
+## 履歴
  * アプリの作成
 ```
 $ rails new sample_app
