@@ -48,6 +48,9 @@ group :development do
   gem 'web-console', '>= 3.3.0'
 end
 
+group :test do
+  gem 'rails-controller-testing'
+end
 group :production do
   # Use pg as the database for Active Record
   gem 'pg'
